@@ -2,7 +2,7 @@
 Output of a standardized report for stock valuation, using Dividend Discount Model (DDM), Discounted Cash Flow (DCF) and PEER Evaluation
 
 ** Notice **
-This is by no means an approach to value companies, only a structured script that employs some of the common valuations used in traditional finance. Even though the results are somewhat valuable if you are evaluating mature companies or companies with a predictable stream of cash flows (such as REITS), the results lack meaning when applied to growth companies or companies with unpredictable cash flows. 
+This is by no means an approach to value companies, only a structured script that employs some of the common valuations used in traditional finance. Even though the results are somewhat useful if you are evaluating mature companies or companies with a predictable stream of cash flows (such as REITS), the results lack meaning when applied to growth companies or companies with unpredictable cash flows. 
 
 After defining your directory, run the script "doc_reader" to produce an automated valuation.
 Details of the DCF and DDM assumptions used for the estimations are shown in the document.
